@@ -29,4 +29,13 @@
     <content><![CDATA[<p>此eu<br>测试<br>测试<br>技术<br>计算<br>结果<br>哈哈</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>测试</title>
+    <url>/2021/07/19/%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<p>this is a test text</p>
+]]></content>
+      <tags>
+        <tag>testtext</tag>
+      </tags>
+  </entry>
 </search>
